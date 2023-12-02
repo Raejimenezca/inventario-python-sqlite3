@@ -1,0 +1,1 @@
+# inventario-python-sqlite3
